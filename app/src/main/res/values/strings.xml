@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="person_name">Kyla Palos</string>
+    <string name="action_email">Email Kyla</string>
+    <string name="action_call">Call Kyla</string>
+    <string name="action_view">Work History</string>
+    <string name="person_avatar">Avatar</string>
+</resources>
